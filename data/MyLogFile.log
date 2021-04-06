@@ -1,0 +1,56 @@
+Mar 26, 2021 4:41:51 PM com.colombo.fileUpdater.CustomLogger log
+INFO: file is copied D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb_
+Mar 26, 2021 4:41:52 PM com.colombo.fileUpdater.CustomLogger log
+INFO: HASHes are same 
+Mar 26, 2021 4:41:52 PM com.colombo.fileUpdater.CustomLogger log
+INFO: File deleted successfully D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb
+Mar 26, 2021 4:44:41 PM com.colombo.fileUpdater.CustomLogger log
+INFO: file is copied D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb_
+Mar 26, 2021 4:44:41 PM com.colombo.fileUpdater.CustomLogger log
+INFO: HASHes are same 
+Mar 26, 2021 4:44:41 PM com.colombo.fileUpdater.CustomLogger log
+INFO: File deleted successfully D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb
+Mar 26, 2021 4:50:34 PM com.colombo.fileUpdater.CustomLogger log
+WARNING: file  is not exists  [D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb]
+Mar 26, 2021 4:51:13 PM com.colombo.fileUpdater.CustomLogger log
+INFO: file is copied D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb_
+Mar 26, 2021 4:51:13 PM com.colombo.fileUpdater.CustomLogger log
+INFO: HASHes are same 
+Mar 26, 2021 4:51:13 PM com.colombo.fileUpdater.CustomLogger log
+INFO: File deleted successfully D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb
+Mar 26, 2021 4:51:32 PM com.colombo.fileUpdater.CustomLogger log
+INFO: file is copied D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb_
+Mar 26, 2021 4:51:32 PM com.colombo.fileUpdater.CustomLogger log
+INFO: HASHes are same 
+Mar 26, 2021 4:51:32 PM com.colombo.fileUpdater.CustomLogger log
+INFO: File deleted successfully D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb
+Mar 26, 2021 4:55:45 PM com.colombo.fileUpdater.CustomLogger log
+INFO: file is copied D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb_
+Mar 26, 2021 4:55:45 PM com.colombo.fileUpdater.CustomLogger log
+INFO: HASHes are same 
+Mar 26, 2021 4:55:45 PM com.colombo.fileUpdater.CustomLogger log
+INFO: File deleted successfully D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb
+Mar 26, 2021 4:55:45 PM com.colombo.fileUpdater.CustomLogger log
+INFO: File renamed 
+Mar 26, 2021 5:29:01 PM com.colombo.fileUpdater.CustomLogger log
+INFO: LocalFileVersion >= serverFileVersion 
+Mar 26, 2021 5:29:42 PM com.colombo.fileUpdater.CustomLogger log
+INFO: LocalFileVersion < serverFileVersion) 
+Mar 26, 2021 5:29:43 PM com.colombo.fileUpdater.CustomLogger log
+INFO: file is copied D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb_
+Mar 26, 2021 5:29:43 PM com.colombo.fileUpdater.CustomLogger log
+INFO: HASHes are same 
+Mar 26, 2021 5:29:43 PM com.colombo.fileUpdater.CustomLogger log
+INFO: File deleted successfully D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb
+Mar 26, 2021 5:29:43 PM com.colombo.fileUpdater.CustomLogger log
+INFO: File renamed 
+Mar 27, 2021 9:23:25 AM com.colombo.fileUpdater.CustomLogger log
+INFO: LocalFileVersion < serverFileVersion) 
+Mar 27, 2021 9:23:25 AM com.colombo.fileUpdater.CustomLogger log
+INFO: file is copied D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb_
+Mar 27, 2021 9:23:26 AM com.colombo.fileUpdater.CustomLogger log
+INFO: HASHes are same 
+Mar 27, 2021 9:23:26 AM com.colombo.fileUpdater.CustomLogger log
+INFO: File deleted successfully D:\eclipse-workspace\file_updater\fileUpdater\data\IBP.accdb
+Mar 27, 2021 9:23:26 AM com.colombo.fileUpdater.CustomLogger log
+INFO: File renamed 
